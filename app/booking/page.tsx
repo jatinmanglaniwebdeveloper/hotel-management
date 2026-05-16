@@ -124,7 +124,7 @@ export default function BookingPage() {
             href="/"
             className="mt-6 inline-block bg-maroon-600 hover:bg-maroon-700 text-white font-sans text-sm font-semibold tracking-widest uppercase px-8 py-3 rounded-sm transition-colors"
           >
-            Back to Homes
+            Back to Home
           </Link>
         </div>
       </div>
